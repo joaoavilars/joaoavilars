@@ -1,0 +1,8 @@
+{
+    "host": "144.22.130.67",
+    "port": 4422,
+    "user": "ubuntu",
+    "ignore":[".git",".vscode"],
+    "remotePath": "/var/www/html",
+    "uploadOnSave": true
+}
